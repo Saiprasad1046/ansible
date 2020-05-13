@@ -1,4 +1,4 @@
-# WARN: gmake syntax
+# WARN: gmake syntax.
 ########################################################
 # Makefile for Ansible
 #
